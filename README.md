@@ -1,4 +1,4 @@
-# Weather App
+# Expense Tracker App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -6,6 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ### Deployment
-https://weather-app-mu-smoky.vercel.app/
+https://expense-tracker-react-sigma.vercel.app/
 
 
